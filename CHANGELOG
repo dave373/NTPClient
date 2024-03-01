@@ -1,3 +1,8 @@
+NTPClient 3.2.0 - 2024.03.01
+
+* Add ISO and Australian time/date formats
+* Add tm_struct to return all vars at once
+
 NTPClient 3.1.0 - 2016.05.31
 
 * Added functions for changing the timeOffset and updateInterval later. Thanks @SirUli
